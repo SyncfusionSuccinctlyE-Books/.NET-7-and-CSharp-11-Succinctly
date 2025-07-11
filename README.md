@@ -1,6 +1,6 @@
 # .NET 7 and C# 11 Succinctly
 
-This is the companion repo for [*.NET 7 and C# 11 Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks/dotnet7-and-csharp11-succinctly) by Alessandro Del Sole. Published by Syncfusion<sup>®</sup>.
+This is the companion repo for [*.NET 7 and C# 11 Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks/dotnet7-and-csharp11-succinctly) by Dirk Strauss. Published by Syncfusion<sup>®</sup>.
 
 [![cover](https://github.com/SyncfusionSuccinctlyE-Books/.NET-7-and-CSharp-11-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/dotnet7-and-csharp11-succinctly)
 
