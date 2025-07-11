@@ -6,7 +6,7 @@ This is the companion repo for [*.NET 7 and C# 11 Succinctly*](https://www.syncf
 
 ## Looking for more _Succinctly_ titles?
 
-Check out the entire library of more than 200 _Succinctly_ ebooks at [https://www.syncfusion.com/succinctly-free-ebooks] (https://www.syncfusion.com/succinctly-free-ebooks).
+Check out the entire library of more than 200 _Succinctly_ ebooks at [https://www.syncfusion.com/succinctly-free-ebooks](https://www.syncfusion.com/succinctly-free-ebooks).
 
 ## Chapter 1: Introducing .NET 7
 To understand how we arrived at .NET 7, we should first briefly examine the history of .NET in general.
